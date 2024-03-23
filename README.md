@@ -13,9 +13,11 @@ To create this app, various technologies and frameworks were utilized. These inc
 
 ### Screenshots
 
-![Screenshot 1](starter/screenshots/screen_1.png)
-![Screenshot 2](starter/screenshots/screen_2.png)
-![Screenshot 3](starter/screenshots/screen_3.png)
-![Screenshot 4](starter/screenshots/screen_4.png)
 
+![MainScreen_Asteroid Radar](https://github.com/AntGoran/Asteroid-Radar/assets/74721081/94009c0a-db55-4f84-abd8-efafabc90757)
 
+![Menu_Asteroid Radar](https://github.com/AntGoran/Asteroid-Radar/assets/74721081/c14f3181-f128-402f-b11c-e9d5facc40b2)
+
+![DetailsScreen_Asteroid Radar](https://github.com/AntGoran/Asteroid-Radar/assets/74721081/8c5b49e8-fb5e-45ba-9a22-6c50b2e0096e)
+
+![AstronomicalUnit_Asteroid Radar](https://github.com/AntGoran/Asteroid-Radar/assets/74721081/2c13adda-5ea9-46e6-8914-2afbeabb745d)
